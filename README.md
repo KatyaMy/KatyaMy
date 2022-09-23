@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="175"/>
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="275"/>
 <div id="badges">
 <a href="https://web.telegram.org/k/">
 <img src="https://img.shields.io/badge/Facebook-green?logo=facebook&logoColor=white alt="Telegram Badge"/>
@@ -10,7 +10,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=blue" alt=""/>
 <h1>
-  <img src="https://media.giphy.com/media/2nUjpQOJRYY5rC0kUw/giphy.gif"width="100"/>
+  <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif"width="200"/>
 </h1>
 </div>
 
@@ -24,18 +24,19 @@
 
 ### :hammer_and_wrench: I'm studyng NOW (Languages and Tools) :
 <div>
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img scr="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height= "40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>                                                                                             
                                                     
+---
 
-<!--
-**KatyaMy/KatyaMy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-KatyaMy&theme=dark&background=000000)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
