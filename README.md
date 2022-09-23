@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="175"/>
+ <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="175"/>
 <div id="badges">
 <a href="https://web.telegram.org/k/">
 <img src="https://img.shields.io/badge/Facebook-green?logo=facebook&logoColor=white alt="Telegram Badge"/>
 </a>  
 <a href="https://web.telegram.org/k/">
  <img src="https://img.shields.io/badge/Telegram-green?logo=telegram&logoColor=white alt="Facebook Badge"/>
- </a>  
+</a>  
 </div>
 <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=blue" alt=""/>
 <h1>
@@ -14,6 +14,11 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgMGA3fUwit1ZiE/giphy.gif" width=350" height="155"/>
+</div>
+:woman_student: About Me :
+</div>
 
 
 <!--
