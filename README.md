@@ -10,12 +10,12 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=blue" alt=""/>
 <h1>
-  <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif"width="200"/>
+  <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif"width="125"/>
 </h1>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgMGA3fUwit1ZiE/giphy.gif" width=350" height="155"/>
+  <img src="https://media.giphy.com/media/xT9IgMGA3fUwit1ZiE/giphy.gif" width=350" height="150"/>
 </div>
 :woman_student: About Me :
 </div>
