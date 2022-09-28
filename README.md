@@ -18,6 +18,7 @@
   <img src="https://media.giphy.com/media/xT9IgMGA3fUwit1ZiE/giphy.gif" width=350" height="150"/>
 </div>
 :woman_student: About Me :
+---maybe later (in progress)
 </div>
                                                                                                
 ---
