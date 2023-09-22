@@ -13,19 +13,15 @@
   <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif"width="125"/>
 </h1>
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgMGA3fUwit1ZiE/giphy.gif" width=350" height="150"/>
-</div>
 :woman_student: About Me :
 ---maybe later (in progress)
 </div>
-----
-| <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-----
 
-### :hammer_and_wrench: Process of styding (Languages and Tools) :
+</a>
+<a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaMy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KatyaMy's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=buefy&hide_border=true" />
+</a>
+
+### :hammer_and_wrench: Process of studying (Languages and Tools) :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
