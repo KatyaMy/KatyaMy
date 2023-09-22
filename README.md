@@ -12,14 +12,9 @@
 <h1>
   <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif"width="125"/>
 </h1>
-</div>
-:woman_student: About Me :
----maybe later (in progress)
-</div>
-
 </a>
-<a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaMy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KatyaMy's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=buefy&hide_border=true" />
-</a>
+<a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaMy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KatyaMy's github stats" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ### :hammer_and_wrench: Process of studying (Languages and Tools) :
 <div>
