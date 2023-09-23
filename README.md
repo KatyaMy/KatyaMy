@@ -36,8 +36,8 @@
 
 ---
 </a>
-<a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaMy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KatyaMy's github stats" /></a>
-<a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaMy&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true" alt="KatyaMy's github stats" /></a>
+<a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=darcula&hide_border=true" /></a>
 
 ---
 ### :fire: My Stats :
