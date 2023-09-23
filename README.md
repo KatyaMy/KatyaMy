@@ -2,9 +2,8 @@
 
 <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="120" align="center"/>
 
-
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="275"/>
+<img src="https://media2.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif?cid=ecf05e47ccjutrkeyd8p8krivu2be904kf87i61eao3hkrxh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="255"/>
 <div id="badges">
 <a href="https://web.telegram.org/kw/">
 <img src="https://img.shields.io/badge/Facebook-green?logo=facebook&logoColor=white alt="Telegram Badge"/></a> 
