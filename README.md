@@ -42,7 +42,7 @@
 ---
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KatyaMY&theme=darcula&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KatyaMy&theme=darcula)](https://git.io/streak-stats)
 
 
 
