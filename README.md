@@ -6,9 +6,9 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="275"/>
 <div id="badges">
-<a href="https://web.telegram.org/k/">
+<a href="https://web.telegram.org/kw/">
 <img src="https://img.shields.io/badge/Facebook-green?logo=facebook&logoColor=white alt="Telegram Badge"/></a> 
-<a href="https://web.telegram.org/k/">
+<a href="https://web.telegram.org/kw/">
 <img src="https://img.shields.io/badge/Telegram-green?logo=telegram&logoColor=white alt="Facebook Badge"/></a> 
 <a href="https://www.linkedin.com/in/ekaterina-myshov-a18638215/">
 <img src="https://img.shields.io/badge/LinkedIn-green?logo=Linkedin&logoColor=white alt="LinkedIn Bage"/></a>
