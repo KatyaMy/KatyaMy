@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-green?logo=Linkedin&logoColor=white alt="LinkedIn Bage"/></a>
 <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=blue" alt=""/>
 <div>
- 
+  
 ## :hammer_and_wrench: Process of studying (Languages and Tools) :
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50"/>&nbsp;
@@ -27,12 +27,11 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/>&nbsp; -->
 
-
+---
 
 <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaMy&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true" alt="KatyaMy's github stats" /></a>
 <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=darcula&hide_border=true" /></a>
 
----
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KatyaMy&theme=darcula)](https://git.io/streak-stats)
