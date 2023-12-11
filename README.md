@@ -37,7 +37,7 @@
 
 <details>
   <summary>
-  <h2 style="font-size: 24px;">🔥 My Stats:</h2> 
+  <h2 style="font-size: 24px;">🔥Stats and Activity:</h2> 
   </summary>
   
  [![GitHub Streak](https://streak-stats.demolab.com?user=KatyaMy&theme=darcula)](https://git.io/streak-stats)
@@ -47,7 +47,7 @@
 
 <details>
   <summary> 
-    <h2 style="font-size: 24px;">📎 GitHub Stats:</h2> 
+    <h2 style="font-size: 24px;">📎 GitHub Profile Stats:</h2> 
   </summary>
  <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaMy&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true" alt="KatyaMy's github stats" /></a>
 <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=darcula&hide_border=true" /></a>
