@@ -15,9 +15,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-cyan?logo=Linkedin&logoColor=white alt="LinkedIn Bage"/></a>
 <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
 
 <details>
