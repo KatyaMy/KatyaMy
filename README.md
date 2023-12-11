@@ -7,12 +7,12 @@
   
 <div id="badges">
 <a href="https://web.telegram.org/kw/">
-<img src="https://img.shields.io/badge/Facebook-green?logo=facebook&logoColor=white alt="Telegram Badge"/></a> 
+<img src="https://img.shields.io/badge/Facebook-orange?logo=facebook&logoColor=white alt="Telegram Badge"/></a> 
 <a href="https://web.telegram.org/kw/">
-<img src="https://img.shields.io/badge/Telegram-green?logo=telegram&logoColor=white alt="Facebook Badge"/></a> 
+<img src="https://img.shields.io/badge/Telegram-magenta?logo=telegram&logoColor=white alt="Facebook Badge"/></a> 
 <a href="https://www.linkedin.com/in/ekaterina-myshov-a18638215/">
 <img src="https://img.shields.io/badge/LinkedIn-green?logo=Linkedin&logoColor=white alt="LinkedIn Bage"/></a>
-<img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
 <div>
 
 <details>
