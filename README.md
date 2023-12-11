@@ -1,10 +1,10 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="125" align="center">
 </div>
-
 <div id="header" align="center">
 <img src="https://gifdb.com/images/high/cute-girl-happily-working-hard-zkn3gigd5zktg85w.webp" width="205"/>
 </div>
+
 
 <div id="badges" align="center">
 <a href="https://web.telegram.org/kw/">
@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-cyan?logo=Linkedin&logoColor=white alt="LinkedIn Bage"/></a>
 <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
 </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 
