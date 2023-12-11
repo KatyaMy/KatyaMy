@@ -14,10 +14,9 @@
 <a href="https://www.linkedin.com/in/ekaterina-myshov-a18638215/">
 <img src="https://img.shields.io/badge/LinkedIn-cyan?logo=Linkedin&logoColor=white alt="LinkedIn Bage"/></a>
 <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
-<div>
+</div>
 
 <details>
-
 <summary>
   <h2 style="font-size: 24px;text-align: left;">📚 Process of studying:🔹 ⌨️Languages 🔸 🛠️ Tools </h2> 
 </summary>
