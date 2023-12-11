@@ -1,12 +1,12 @@
 <div id="header" align="center">
-
-
-<img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="125" align="center"/>
+<img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="125" align="center">
+</div>
 
 <div id="header" align="center">
 <img src="https://gifdb.com/images/high/cute-girl-happily-working-hard-zkn3gigd5zktg85w.webp" width="205"/>
-  
-<div id="badges">
+</div>
+
+<div id="badges" align="center">
 <a href="https://web.telegram.org/kw/">
 <img src="https://img.shields.io/badge/Facebook-orange?logo=facebook&logoColor=white alt="Telegram Badge"/></a> 
 <a href="https://web.telegram.org/kw/">
@@ -16,9 +16,12 @@
 <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
 </div>
 
+
+
+
 <details>
 <summary>
-  <h2 style="font-size: 24px;text-align: left;">📚 Process of studying:🔹 ⌨️Languages 🔸 🛠️ Tools </h2> 
+  <h2 style="font-size: 24px"; align="center";>📚 Process of studying:🔹 ⌨️Languages 🔸 🛠️ Tools </h2> 
 </summary>
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50"/>&nbsp;
@@ -35,6 +38,7 @@
 <img src="https://cdn.svgporn.com/logos/selenium.svg" width="50" height="50"/>&nbsp;
 
 </details>
+
 
 <details>
   <summary>
