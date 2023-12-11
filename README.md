@@ -18,7 +18,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
 
-<details style="margin-bottom: 10px;">
+<details style="padding-bottom: 10px;">
 <summary>
   <h2 style="font-size: 24px"; align="center";>📚 Process of studying:🔹 ⌨️Languages 🔸 🛠️ Tools </h2> 
 </summary>
@@ -39,7 +39,7 @@
 </details>
 
 
-<details style="margin-bottom: 10px;">
+<details style="padding-bottom: 10px;">
   <summary>
   <h2 style="font-size: 24px;">🔥Stats and Activity:</h2> 
   </summary>
@@ -49,7 +49,7 @@
 </details>
 
 
-<details style="margin-bottom: 10px;">
+<details style="padding-bottom: 10px;">
   <summary> 
     <h2 style="font-size: 24px;">📎 GitHub Profile Stats:</h2> 
   </summary>
