@@ -15,8 +15,10 @@
 <div>
 
 <details>
-  
-<summary> 🛠️ Process of studying (Languages and Tools) :</summary>
+
+<summary>
+  <h2 style="font-size: 24px;">🛠️ Process of studying (Languages and Tools):</h2> 
+</summary>
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50" height="50"/>&nbsp;
@@ -34,7 +36,9 @@
 
 
 <details>
-  <summary>🔥 My Stats :</summary>
+  <summary>
+  <h2 style="font-size: 24px;">🔥 My Stats:</h2> 
+  </summary>
   
  [![GitHub Streak](https://streak-stats.demolab.com?user=KatyaMy&theme=darcula)](https://git.io/streak-stats)
  
@@ -42,7 +46,9 @@
 
 
 <details>
-  <summary> GitHub Stata </summary>
+  <summary> 
+    <h2 style="font-size: 24px;"> GitHub Stats:</h2> 
+  </summary>
  <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaMy&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true" alt="KatyaMy's github stats" /></a>
 <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=darcula&hide_border=true" /></a>
 </details>
