@@ -5,7 +5,6 @@
 <img src="https://gifdb.com/images/high/cute-girl-happily-working-hard-zkn3gigd5zktg85w.webp" width="205"/>
 </div>
 
-
 <div id="badges" align="center">
 <a href="https://web.telegram.org/kw/">
 <img src="https://img.shields.io/badge/Facebook-orange?logo=facebook&logoColor=white alt="Telegram Badge"/></a> 
@@ -17,9 +16,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 <img src="https://i.gifer.com/J59.gif" height="100" width="10%">
 </div>
-
-<img src="https://i.gifer.com/NW45.gif" height="100" width="10%">
-
 <details style="padding-bottom: 10px;">
 <summary>
   <h2 style="font-size: 24px"; align="center";>📚 Process of studying:🔹 ⌨️Languages 🔸 🛠️ Tools </h2> 
