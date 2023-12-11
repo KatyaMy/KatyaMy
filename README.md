@@ -14,9 +14,11 @@
 <a href="https://www.linkedin.com/in/ekaterina-myshov-a18638215/">
 <img src="https://img.shields.io/badge/LinkedIn-cyan?logo=Linkedin&logoColor=white alt="LinkedIn Bage"/></a>
 <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
-</div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+<img src="https://i.gifer.com/J59.gif" height="100" width="10%">
+</div>
 
+<img src="https://i.gifer.com/NW45.gif" height="100" width="10%">
 
 <details style="padding-bottom: 10px;">
 <summary>
