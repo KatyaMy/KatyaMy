@@ -42,7 +42,7 @@
   <h2 style="font-size: 24px;">🔥Stats and Activity:</h2> 
   </summary>
   
- [![GitHub Streak](https://streak-stats.demolab.com/?user=KatyaMy)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=KatyaMy&theme=tokyonight-duo)](https://git.io/streak-stats)
  
 </details>
 
