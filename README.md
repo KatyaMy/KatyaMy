@@ -34,6 +34,7 @@
 <img src="https://cdn.svgporn.com/logos/pycharm.svg" title="Pycharm" alt="Pycharm" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="50" height="50"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/selenium.svg" width="50" height="50"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/notion.svg" width="50" height="50"/>&nbsp;
 
 </details>
 
