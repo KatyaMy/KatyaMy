@@ -1,10 +1,9 @@
 <div align='center'>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hi%2C+I'm+Katerina.+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hi%2C+I'm+Katya.+Welcome!)](https://git.io/typing-svg)
 
 </div>
 <div id="header" align="center">
-<img src="https://gifdb.com/images/high/cute-girl-happily-working-hard-zkn3gigd5zktg85w.webp" width="205"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,7 +15,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-cyan?logo=Linkedin&logoColor=white alt="LinkedIn Bage"/></a>
 <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
-<img src="https://i.gifer.com/J59.gif" height="100" width="10%">
 </div>
 <div align='center'>
   
