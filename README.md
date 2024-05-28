@@ -1,29 +1,28 @@
-<div align="left">
+<div align="left" style="margin-bottom: 20px;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmd2c29yN2F1a3p5N3dzZGY5cHFxYnhpc2xjY3o3ZWxsdno4aWtxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JsDtKXMBOAJt1mJYaF/giphy.gif" width="180" height="180" style="display:inline-block;vertical-align:middle;">&nbsp;
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">
 </div>
 
-<div style="height: 20px;"></div> <!-- пустой div для создания отступа -->
-
-<div>
-Passionate Automation QA from Virginia.
-  
-🌱 "Learn always and everywhere." - Jean-Jacques Rousseau  
+<div style="margin-bottom: 20px;">
+    <p style="font-size: 20px;">Passionate Automation QA from Virginia.</p>
+    <p style="font-size: 20px;">🌱 "Learn always and everywhere." - Jean-Jacques Rousseau</p>
 </div>
 
-<div style="font-size: 30px; text-align: left;">
-    <p style="display: inline-block; vertical-align: middle; font-size: 30px;">🌐 Socials: 
+<div style="font-size: 20px; text-align: left;">
+    <p style="display: inline-block; vertical-align: middle;">🌐 Socials: 
         <a href="https://web.telegram.org/kw/">
-            <img src="https://img.shields.io/badge/Facebook-orange?logo=facebook&logoColor=white" alt="Telegram Badge" style="display: inline-block; vertical-align: middle; margin-right: 10px;">
+            <img src="https://img.shields.io/badge/Facebook-orange?logo=facebook&logoColor=white" alt="Telegram Badge" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
         </a> 
         <a href="https://web.telegram.org/kw/">
-            <img src="https://img.shields.io/badge/Telegram-magenta?logo=telegram&logoColor=white" alt="Facebook Badge" style="display: inline-block; vertical-align: middle; margin-right: 10px;">
+            <img src="https://img.shields.io/badge/Telegram-magenta?logo=telegram&logoColor=white" alt="Facebook Badge" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
         </a> 
         <a href="https://www.linkedin.com/in/katerina-myshov-a18638215/">
             <img src="https://img.shields.io/badge/LinkedIn-cyan?logo=Linkedin&logoColor=white" alt="LinkedIn Badge" style="display: inline-block; vertical-align: middle;">
         </a>
     </p> 
 </div>
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
@@ -64,7 +63,7 @@ Passionate Automation QA from Virginia.
  <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaMy&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true" alt="KatyaMy's github stats" /></a>
 <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=darcula&hide_border=true" /></a>
 </details>
-<div align='center'>
+<div align='left'>
   
  [![GitHub Streak](https://streak-stats.demolab.com?user=KatyaMy&theme=tokyonight-duo)](https://git.io/streak-stats)
  
