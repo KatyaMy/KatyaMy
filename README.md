@@ -12,7 +12,7 @@
 </div>
 
 
-### 🌞 Always learning, always growing.  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZlMDdnbnA2eGUzb3c3NXM5eDl5MjE2NGd4bDJkaGtwaTZzcm94cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xDKZ3h77cwDAka4tTl/giphy.gif" width="50" height="50">&nbsp;
+### 🌞 Always learning, always growing.  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR4MDh5dG1nMTRzMHVmMWtlZDJhNGJneDFsZTJvaHJoZHcwY2thZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BEP2gtNN6f9hKSP0nX/giphy.gif" width="50" height="50">&nbsp;
 ### &#129670; Automation Testing Aficionado from Virginia 
 <h1></h1>
 
