@@ -1,7 +1,9 @@
+<img src=""  width="80" height="80">&nbsp;
+
 # &#129670;About Me: 
 
 <div align="left" style="margin-bottom: 20px;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmd2c29yN2F1a3p5N3dzZGY5cHFxYnhpc2xjY3o3ZWxsdno4aWtxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JsDtKXMBOAJt1mJYaF/giphy.gif" width="180" height="180" style="display:inline-block;vertical-align:middle;margin-right:20px;">&nbsp;
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVob3B1MDZhdXR3N3kwMDhkdTB2Nmg4ZmJ6c3Yzcno2Y2JhN3JoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oCoDOqw7AfDFlFuCfq/giphy.gif" width="180" height="180" style="display:inline-block;vertical-align:middle;margin-right:20px;">&nbsp;
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">
 </div>
