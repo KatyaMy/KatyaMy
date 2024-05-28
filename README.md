@@ -3,13 +3,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">
 </div>
 
+<div style="height: 20px;"></div> <!-- пустой div для создания отступа -->
 
+<div>
 Passionate Automation QA from Virginia.
-
-🌱 "Learn always and everywhere." - Jean-Jacques Rousseau
+  
+🌱 "Learn always and everywhere." - Jean-Jacques Rousseau  
+</div>
 
 <div style="font-size: 30px; text-align: left;">
-    <p style="display: inline-block; vertical-align: middle; font-size: 30px;">📫 How to reach me: 
+    <p style="display: inline-block; vertical-align: middle; font-size: 30px;">🌐 Socials: 
         <a href="https://web.telegram.org/kw/">
             <img src="https://img.shields.io/badge/Facebook-orange?logo=facebook&logoColor=white" alt="Telegram Badge" style="display: inline-block; vertical-align: middle; margin-right: 10px;">
         </a> 
@@ -22,14 +25,7 @@ Passionate Automation QA from Virginia.
     </p> 
 </div>
 
-
-
-
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
-
-
-
 
 <details style="padding-bottom: 24px;">
   <summary>
