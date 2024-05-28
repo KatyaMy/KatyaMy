@@ -1,26 +1,23 @@
-<div align='center'>
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hi%2C+I'm+Katya.+Welcome!)](https://git.io/typing-svg)
-
-</div>
-<div id="header" align="center">
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmd2c29yN2F1a3p5N3dzZGY5cHFxYnhpc2xjY3o3ZWxsdno4aWtxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JsDtKXMBOAJt1mJYaF/giphy.gif" width="180" height="180" style="display:inline-block;vertical-align:middle;">&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">
 </div>
 
-<div id="badges" align="center">
+Passionate quality assurance professional from Virginia.
+
+🌱 I’m currently learning C# and ASP.NET Core Web API
+
+<div style="font-size: 30px; text-align: left;"> <p> 📫 How to reach me:  </p> 
 <a href="https://web.telegram.org/kw/">
 <img src="https://img.shields.io/badge/Facebook-orange?logo=facebook&logoColor=white alt="Telegram Badge"/></a> 
 <a href="https://web.telegram.org/kw/">
 <img src="https://img.shields.io/badge/Telegram-magenta?logo=telegram&logoColor=white alt="Facebook Badge"/></a> 
 <a href="https://www.linkedin.com/in/katerina-myshov-a18638215/">
 <img src="https://img.shields.io/badge/LinkedIn-cyan?logo=Linkedin&logoColor=white alt="LinkedIn Bage"/></a>
-<img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 </div>
-<div align='center'>
-  
- [![GitHub Streak](https://streak-stats.demolab.com?user=KatyaMy&theme=tokyonight-duo)](https://git.io/streak-stats)
- 
-</div>
+
+
 <details style="padding-bottom: 24px;">
   <summary>
     <h2 style="font-size: 24px; text-align: center;">🔹Skills🔹</h2> 
@@ -58,4 +55,9 @@
  <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaMy&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true" alt="KatyaMy's github stats" /></a>
 <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=darcula&hide_border=true" /></a>
 </details>
-
+<div align='center'>
+  
+ [![GitHub Streak](https://streak-stats.demolab.com?user=KatyaMy&theme=tokyonight-duo)](https://git.io/streak-stats)
+ 
+ <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
+</div>
