@@ -15,66 +15,46 @@
             <img src="https://img.shields.io/badge/Facebook-b72e33?logo=facebook&logoColor=white" alt="Telegram Badge" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
         </a> 
         <a href="https://web.telegram.org/kw/">
-            <img src="https://img.shields.io/badge/Telegram-8ad6d3?logo=telegram&logoColor=white" alt="Facebook Badge" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
+            <img src="https://img.shields.io/badge/Telegram-00ffff?logo=telegram&logoColor=white" alt="Facebook Badge" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
         </a> 
         <a href="https://www.linkedin.com/in/katerina-myshov-a18638215/">
             <img src="https://img.shields.io/badge/LinkedIn-8d8d8d?logo=Linkedin&logoColor=white" alt="LinkedIn Badge" style="display: inline-block; vertical-align: middle;">
         </a>
 </h1>
-<!--   <h1>🔹Skills: </h1>
-  <div style="font-size: 9px;"> -->
-    <p>I'm familiar with: </p>
-<!--   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50"/>&nbsp;
-  <div style="font-size: 9px; text-align: left;">
-    <p>Collaboration Tools: </p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.svgporn.com/logos/trello.svg" title="Trello" alt="Trello" width="50" height="50"/>&nbsp;
-  <img src="https://www.gend.co/hs-fs/hubfs/Miro%20Logo.png?width=792&name=Miro%20Logo.png" width="90" height="50"/>&nbsp; 
-    
-  <div style="font-size: 5px; text-align: left;">
-    <p>Testing and automation: </p>
-    
-  <img src="https://cdn.svgporn.com/logos/selenium.svg" width="50" height="50"/>&nbsp; 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50" height="50"/>&nbsp;
-  <img src="https://yashaka.github.io/selene/assets/images/logo-icon.png" width="50" height="50"/>&nbsp;  
-  <img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" width="90" height="60"/>&nbsp;
-    
-  <div style="font-size: 5px; text-align: left;"><p> ----- </p> 
-    
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" alt="graphql" width="50" height="50"/>&nbsp;
-  
-  <div style="font-size: 5px; text-align: left;"> <p>----- </p> 
-    
-  <img src="https://cdn.svgporn.com/logos/pycharm.svg" title="Pycharm" alt="Pycharm" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="50" height="50"/>&nbsp;
-  
-  <div style="font-size: 5px; text-align: left;"> <p>----- </p> 
-    
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="50" height="50"/>&nbsp;
-</details>
- -->
- 
+
+# ⚙️ I'm familiar with : 
+
+### Programming Languages:
 ![Python](https://custom-icon-badges.demolab.com/badge/-Python-000080?style=for-the-badge&logo=Python&logoColor=white)
 ![]()
 
+### Automation Tools:  
 ![Selenium](https://custom-icon-badges.demolab.com/badge/-Selenium-339933?style=for-the-badge&logo=Selenium&logoColor=white)
-![Pytest](https://custom-icon-badges.demolab.com/badge/-pytest-903993?style=for-the-badge&logo=Pytest&logoColor=white)
-![Selene](https://custom-icon-badges.demolab.com/badge/-Selene-349882?style=for-the-badge&logo=Selene&logoColor=white)
+![Pytest](https://custom-icon-badges.demolab.com/badge/-pytest-e32636?style=for-the-badge&logo=Pytest&logoColor=white)
+![Selene](https://custom-icon-badges.demolab.com/badge/-Selene-ffcc99?style=for-the-badge&logo=Selene&logoColor=white)
 ![]()
 ![]()
 
-![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-b21a52?style=for-the-badge&logo=node.js&logoColor=white)
-![CSS](https://custom-icon-badges.demolab.com/badge/-CSS-ffcc99?style=for-the-badge&logo=CSS&logoColor=white)
+### Technologies:
+![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-821e3b?style=for-the-badge&logo=node.js&logoColor=white)
+![CSS](https://custom-icon-badges.demolab.com/badge/-CSS-8df1d4?style=for-the-badge&logo=CSS&logoColor=white)
 ![MySQL](https://custom-icon-badges.demolab.com/badge/-MySQL-db7093?style=for-the-badge&logo=MySQL&logoColor=black)
-![HTML](https://custom-icon-badges.demolab.com/badge/-HTML-da70d6?style=for-the-badge&logo=HTML&logoColor=white)
-![Docker](https://custom-icon-badges.demolab.com/badge/-Docker-918151?style=for-the-badge&logo=Docker&logoColor=white)
+![HTML](https://custom-icon-badges.demolab.com/badge/-HTML-404040?style=for-the-badge&logo=HTML&logoColor=white)
 
-![](https://custom-icon-badges.demolab.com/badge/-HTML-654321?style=for-the-badge&logo=HTML&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/-HTML-654321?style=for-the-badge&logo=HTML&logoColor=white)
+### Development and Testing Tools:
+![Docker](https://custom-icon-badges.demolab.com/badge/-Docker-918151?style=for-the-badge&logo=Docker&logoColor=white)
+![GraphQl](https://custom-icon-badges.demolab.com/badge/-GraphQl-654321?style=for-the-badge&logo=GraohQl&logoColor=white)
+![Postman](https://custom-icon-badges.demolab.com/badge/-Postman-654321?style=for-the-badge&logo=Postman&logoColor=white)
+![Pycharm](https://custom-icon-badges.demolab.com/badge/-Pycharm-654321?style=for-the-badge&logo=Pycharm&logoColor=white)
+
+### Collaboration Tools: 
+![Git](https://custom-icon-badges.demolab.com/badge/-Git-4f7942?style=for-the-badge&logo=Git&logoColor=white)
+![Notion](https://custom-icon-badges.demolab.com/badge/-Notion-4682b4?style=for-the-badge&logo=Notion&logoColor=white)
+![Miro](https://custom-icon-badges.demolab.com/badge/-Miro-ed9121?style=for-the-badge&logo=Miro&logoColor=white)
+![Trello](https://custom-icon-badges.demolab.com/badge/-Trello-f984e5?style=for-the-badge&logo=Trello&logoColor=white)
+![Jira](https://custom-icon-badges.demolab.com/badge/-Jira-007ba7?style=for-the-badge&logo=Jira&logoColor=white)
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">
       
 <details style="padding-bottom: 10px;">
