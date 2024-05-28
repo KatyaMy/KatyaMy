@@ -7,7 +7,7 @@
 </div>
 
 
-### :bookmark:Passionate Automation QA from Virginia.
+### :bookmark: Passionate Automation QA from Virginia.
 ### :black_nib: "Learn always and everywhere." - @Jean-Jacques Rousseau
 
 <h1>🌐 Socials:  
@@ -24,10 +24,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
-<details style="padding-bottom: 24px;">
-  <summary>
-    <h2 style="font-size: 29px; text-align: center;">🔹Skills🔹</h2> 
-  </summary>
+  <h1>🔹Skills🔹</h1>
   <div style="font-size: 9px;">
     <p>Programming Languages:</p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50"/>&nbsp;
