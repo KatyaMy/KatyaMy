@@ -1,6 +1,6 @@
 # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmswaGRvZGRxZ2Q2ZnViam5mOTg3N3JhdHNra3FrbmkzNmpyM3d6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yPLFnK5wvLwxZUOw7o/giphy.gif" width="60" height="60"> &nbsp; About Me:
   <div style="flex-grow: 1; text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=63FFE1&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">
   </div>  
   
 <div style="display: flex; align-items: left;">
