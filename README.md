@@ -1,12 +1,12 @@
 # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmswaGRvZGRxZ2Q2ZnViam5mOTg3N3JhdHNra3FrbmkzNmpyM3d6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yPLFnK5wvLwxZUOw7o/giphy.gif" width="80" height="80"> &nbsp; About Me:
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="left" style="margin-bottom: 20px;">
     <div style="display: flex; align-items: center; justify-content: center;">
-        <div style="text-align: center;">
+        <div style="text-align: right;">
             <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">  
         </div>
         <div style="margin-left: 20px;">
-            <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVob3B1MDZhdXR3N3kwMDhkdTB2Nmg4ZmJ6c3Yzcno2Y2JhN3JoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oCoDOqw7AfDFlFuCfq/giphy.gif" width="190" height="190" style="display:inline-block;vertical-align:middle;">&nbsp;    
+            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGh1a2g3cjkwc3U0MjZkbmdjeDQ1dWJqbGNsNXlqcXZ3MGt2YTlnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBwokNaE6NU9wyyDhj/giphy.gif" width="290" height="290" style="display:inline-block;vertical-align:middle;">&nbsp;    
         </div>
     </div>
 </div>
