@@ -1,6 +1,9 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="125" align="center">
+<div align='center'>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+I+am+Katerina;Welcom+to+my+Git+Page)](https://git.io/typing-svg)) 
+
 </div>
+
 <div id="header" align="center">
 <img src="https://gifdb.com/images/high/cute-girl-happily-working-hard-zkn3gigd5zktg85w.webp" width="205"/>
 </div>
@@ -66,5 +69,4 @@
  <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaMy&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true" alt="KatyaMy's github stats" /></a>
 <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=darcula&hide_border=true" /></a>
 </details>
-
 
