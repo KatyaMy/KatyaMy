@@ -9,7 +9,7 @@ Passionate Automation QA from Virginia.
 🌱 "Learn always and everywhere." - Jean-Jacques Rousseau
 
 <div style="font-size: 30px; text-align: left;">
-    <p style="display: inline-block; vertical-align: middle;">📫 How to reach me:  
+    <p style="display: inline-block; vertical-align: middle; font-size: 30px;">📫 How to reach me: 
         <a href="https://web.telegram.org/kw/">
             <img src="https://img.shields.io/badge/Facebook-orange?logo=facebook&logoColor=white" alt="Telegram Badge" style="display: inline-block; vertical-align: middle; margin-right: 10px;">
         </a> 
@@ -21,6 +21,7 @@ Passionate Automation QA from Virginia.
         </a>
     </p> 
 </div>
+
 
 
 
