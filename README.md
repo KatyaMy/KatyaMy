@@ -10,7 +10,7 @@
 ### :bookmark:Passionate Automation QA from Virginia.
 ### :black_nib: "Learn always and everywhere." - @Jean-Jacques Rousseau
 
-<h1>🌐 Socials: </h1> 
+<h1>🌐 Socials:  
         <a href="https://web.telegram.org/kw/">
             <img src="https://img.shields.io/badge/Facebook-orange?logo=facebook&logoColor=white" alt="Telegram Badge" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
         </a> 
@@ -20,7 +20,7 @@
         <a href="https://www.linkedin.com/in/katerina-myshov-a18638215/">
             <img src="https://img.shields.io/badge/LinkedIn-cyan?logo=Linkedin&logoColor=white" alt="LinkedIn Badge" style="display: inline-block; vertical-align: middle;">
         </a>
-
+</h1>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
