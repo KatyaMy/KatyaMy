@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">
 </div>
 
-
 ### :bookmark: Passionate Automation QA from Virginia.
 ### :black_nib: "Learn always and everywhere." - @Jean-Jacques Rousseau
 
@@ -21,10 +20,7 @@
             <img src="https://img.shields.io/badge/LinkedIn-cyan?logo=Linkedin&logoColor=white" alt="LinkedIn Badge" style="display: inline-block; vertical-align: middle;">
         </a>
 </h1>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
-
-  <h1>🔹Skills🔹</h1>
+  <h1>🔹Skills: </h1>
   <div style="font-size: 9px;">
     <p>Programming Languages:</p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50"/>&nbsp;
@@ -51,7 +47,7 @@
   <div style="font-size: 5px; text-align: left;"> <p>----- </p> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="50" height="50"/>&nbsp;
 </details>
-<hr style="margin-bottom: 20px;">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">
       
 <details style="padding-bottom: 10px;">
   <summary> 
