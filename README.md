@@ -42,10 +42,10 @@
 ![HTML](https://custom-icon-badges.demolab.com/badge/-HTML-404040?style=for-the-badge&logo=HTML&logoColor=white)
 
 ### Development and Testing Tools:
-![Docker](https://custom-icon-badges.demolab.com/badge/-Docker-918151?style=for-the-badge&logo=Docker&logoColor=white)
-![GraphQl](https://custom-icon-badges.demolab.com/badge/-GraphQl-654321?style=for-the-badge&logo=GraohQl&logoColor=white)
-![Postman](https://custom-icon-badges.demolab.com/badge/-Postman-654321?style=for-the-badge&logo=Postman&logoColor=white)
-![Pycharm](https://custom-icon-badges.demolab.com/badge/-Pycharm-654321?style=for-the-badge&logo=Pycharm&logoColor=white)
+![Docker](https://custom-icon-badges.demolab.com/badge/-Docker-008080?style=for-the-badge&logo=Docker&logoColor=white)
+![GraphQl](https://custom-icon-badges.demolab.com/badge/-GraphQl-cfb53b?style=for-the-badge&logo=GraohQl&logoColor=white)
+![Postman](https://custom-icon-badges.demolab.com/badge/-Postman-800080?style=for-the-badge&logo=Postman&logoColor=white)
+![Pycharm](https://custom-icon-badges.demolab.com/badge/-Pycharm-cd5c5c?style=for-the-badge&logo=Pycharm&logoColor=white)
 
 ### Collaboration Tools: 
 ![Git](https://custom-icon-badges.demolab.com/badge/-Git-4f7942?style=for-the-badge&logo=Git&logoColor=white)
