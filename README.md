@@ -7,11 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">
 </div>
 
-<div style="margin-bottom: 20px;">
-    <p style="font-size: 20px;">Passionate Automation QA from Virginia.</p>
-    <p style="font-size: 20px;">🌱 "Learn always and everywhere." - Jean-Jacques Rousseau</p>
+<div style="margin-bottom: 100px;">
+    <p style="font-size: 100px;">Passionate Automation QA from Virginia.</p>
+    <p style="font-size: 120px;">🌱 "Learn always and everywhere." - Jean-Jacques Rousseau</p>
 </div>
-<div style="font-size: 20px; text-align: left;">
+<div style="font-size: 120px; text-align: left;">
     <p style="display: inline-block; vertical-align: middle;">🌐 Socials: 
         <a href="https://web.telegram.org/kw/">
             <img src="https://img.shields.io/badge/Facebook-orange?logo=facebook&logoColor=white" alt="Telegram Badge" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
