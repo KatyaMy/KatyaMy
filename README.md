@@ -1,8 +1,13 @@
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNuZWtvaTluYnI4b2JzYTd2bHB0Ym1zNmp1Mmc4a2tsazNwNHdscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I0ipgtViVaweZrKcOi/giphy.gif" width="60" height="60"> &nbsp;About Me:
 <div align="center" style="margin-bottom: 20px;">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">  
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVob3B1MDZhdXR3N3kwMDhkdTB2Nmg4ZmJ6c3Yzcno2Y2JhN3JoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oCoDOqw7AfDFlFuCfq/giphy.gif" width="190" height="190" style="display:inline-block;vertical-align:middle;margin-right:20px;">&nbsp;    
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <div style="text-align: center;">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">  
+        </div>
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVob3B1MDZhdXR3N3kwMDhkdTB2Nmg4ZmJ6c3Yzcno2Y2JhN3JoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oCoDOqw7AfDFlFuCfq/giphy.gif" width="190" height="190" style="display:inline-block;vertical-align:middle;margin-left:20px;">&nbsp;    
+    </div>
 </div>
+
 
 ### 🌞 Always learning, always growing.  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZlMDdnbnA2eGUzb3c3NXM5eDl5MjE2NGd4bDJkaGtwaTZzcm94cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xDKZ3h77cwDAka4tTl/giphy.gif" width="50" height="50">&nbsp;
 ### &#129670; Automation Testing Aficionado from Virginia 
