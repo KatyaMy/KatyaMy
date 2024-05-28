@@ -18,6 +18,11 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 <img src="https://i.gifer.com/J59.gif" height="100" width="10%">
 </div>
+<div align='center'>
+  
+ [![GitHub Streak](https://streak-stats.demolab.com?user=KatyaMy&theme=tokyonight-duo)](https://git.io/streak-stats)
+ 
+</div>
 <details style="padding-bottom: 24px;">
   <summary>
     <h2 style="font-size: 24px; text-align: center;">🔹Skills🔹</h2> 
@@ -48,19 +53,6 @@
   <div style="font-size: 5px; text-align: left;"> <p>----- </p> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="50" height="50"/>&nbsp;
 </details>
-
-
-
-<details style="padding-bottom: 10px;">
-  <summary>
-  <h2 style="font-size: 24px;">🔥Stats and Activity:</h2> 
-  </summary>
-  
- [![GitHub Streak](https://streak-stats.demolab.com?user=KatyaMy&theme=tokyonight-duo)](https://git.io/streak-stats)
- 
-</details>
-
-
 <details style="padding-bottom: 10px;">
   <summary> 
     <h2 style="font-size: 24px;">📎 GitHub Profile Stats:</h2> 
