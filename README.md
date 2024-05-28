@@ -21,10 +21,10 @@
             <img src="https://img.shields.io/badge/LinkedIn-cyan?logo=Linkedin&logoColor=white" alt="LinkedIn Badge" style="display: inline-block; vertical-align: middle;">
         </a>
 </h1>
-  <h1>🔹Skills: </h1>
-  <div style="font-size: 9px;">
-    <p>Programming Languages:</p>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50"/>&nbsp;
+<!--   <h1>🔹Skills: </h1>
+  <div style="font-size: 9px;"> -->
+    <p>I'm familiar with: </p>
+<!--   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50"/>&nbsp;
   <div style="font-size: 9px; text-align: left;">
     <p>Collaboration Tools: </p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="50" height="50"/>&nbsp;
@@ -56,7 +56,25 @@
     
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="50" height="50"/>&nbsp;
 </details>
+ -->
+ 
+![Python](https://custom-icon-badges.demolab.com/badge/-Python-000080?style=for-the-badge&logo=Python&logoColor=white)
+![]()
 
+![Selenium](https://custom-icon-badges.demolab.com/badge/-Selenium-339933?style=for-the-badge&logo=Selenium&logoColor=white)
+![Pytest](https://custom-icon-badges.demolab.com/badge/-pytest-903993?style=for-the-badge&logo=Pytest&logoColor=white)
+![Selene](https://custom-icon-badges.demolab.com/badge/-Selene-349882?style=for-the-badge&logo=Selene&logoColor=white)
+![]()
+![]()
+
+![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-b21a52?style=for-the-badge&logo=node.js&logoColor=white)
+![CSS](https://custom-icon-badges.demolab.com/badge/-CSS-ffcc99?style=for-the-badge&logo=CSS&logoColor=white)
+![MySQL](https://custom-icon-badges.demolab.com/badge/-MySQL-db7093?style=for-the-badge&logo=MySQL&logoColor=black)
+![HTML](https://custom-icon-badges.demolab.com/badge/-HTML-da70d6?style=for-the-badge&logo=HTML&logoColor=white)
+![Docker](https://custom-icon-badges.demolab.com/badge/-Docker-918151?style=for-the-badge&logo=Docker&logoColor=white)
+
+![](https://custom-icon-badges.demolab.com/badge/-HTML-654321?style=for-the-badge&logo=HTML&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/-HTML-654321?style=for-the-badge&logo=HTML&logoColor=white)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">
       
 <details style="padding-bottom: 10px;">
