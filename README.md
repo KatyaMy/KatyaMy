@@ -10,17 +10,18 @@
 #### 🌱 Always learning, always growing.
 #### :black_nib: "Learn always and everywhere." - @Jean-Jacques Rousseau
 <h1></h1>
-<h1>🌐 Socials:  
-        <a href="https://web.telegram.org/kw/">
-            <img src="https://img.shields.io/badge/Facebook-b72e33?logo=facebook&logoColor=white" alt="Telegram Badge" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
-        </a> 
-        <a href="https://web.telegram.org/kw/">
-            <img src="https://img.shields.io/badge/Telegram-00ffff?logo=telegram&logoColor=white" alt="Facebook Badge" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
-        </a> 
-        <a href="https://www.linkedin.com/in/katerina-myshov-a18638215/">
-            <img src="https://img.shields.io/badge/LinkedIn-8d8d8d?logo=Linkedin&logoColor=white" alt="LinkedIn Badge" style="display: inline-block; vertical-align: middle;">
-        </a>
-</h1>
+
+## 🌐 Socials:  
+<a href="https://web.telegram.org/kw/">
+<img src="https://img.shields.io/badge/Facebook-b72e33?logo=facebook&logoColor=white" alt="Telegram Badge" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
+</a> 
+<a href="https://web.telegram.org/kw/">
+<img src="https://img.shields.io/badge/Telegram-00ffff?logo=telegram&logoColor=white" alt="Facebook Badge" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
+</a> 
+<a href="https://www.linkedin.com/in/katerina-myshov-a18638215/">
+<img src="https://img.shields.io/badge/LinkedIn-8d8d8d?logo=Linkedin&logoColor=white" alt="LinkedIn Badge" style="display: inline-block; vertical-align: middle;">
+</a>
+
 
 # ⚙️ I'm familiar with : 
 
