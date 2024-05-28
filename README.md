@@ -4,8 +4,8 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVob3B1MDZhdXR3N3kwMDhkdTB2Nmg4ZmJ6c3Yzcno2Y2JhN3JoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oCoDOqw7AfDFlFuCfq/giphy.gif" width="190" height="190" style="display:inline-block;vertical-align:middle;margin-right:20px;">&nbsp;    
 </div>
 
-#### 🌞 Always learning, always growing.  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZlMDdnbnA2eGUzb3c3NXM5eDl5MjE2NGd4bDJkaGtwaTZzcm94cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xDKZ3h77cwDAka4tTl/giphy.gif" width="50" height="50">&nbsp;
-#### &#129670; Automation Testing Aficionado from Virginia 
+### 🌞 Always learning, always growing.  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZlMDdnbnA2eGUzb3c3NXM5eDl5MjE2NGd4bDJkaGtwaTZzcm94cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xDKZ3h77cwDAka4tTl/giphy.gif" width="50" height="50">&nbsp;
+### &#129670; Automation Testing Aficionado from Virginia 
 <h1></h1>
 
 ## 🌐 Socials:  
