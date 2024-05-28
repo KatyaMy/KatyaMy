@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">
 </div>
 
-### :bookmark: Automation Testing Aficionado from Virginia
-### 🌱 Always learning, always growing.
-### :black_nib: "Learn always and everywhere." - @Jean-Jacques Rousseau
+#### :bookmark: Automation Testing Aficionado from Virginia
+#### 🌱 Always learning, always growing.
+#### :black_nib: "Learn always and everywhere." - @Jean-Jacques Rousseau
 <h1></h1>
 <h1>🌐 Socials:  
         <a href="https://web.telegram.org/kw/">
@@ -32,8 +32,6 @@
 ![Selenium](https://custom-icon-badges.demolab.com/badge/-Selenium-339933?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Pytest](https://custom-icon-badges.demolab.com/badge/-pytest-e32636?style=for-the-badge&logo=Pytest&logoColor=white)
 ![Selene](https://custom-icon-badges.demolab.com/badge/-Selene-ffcc99?style=for-the-badge&logo=Selene&logoColor=white)
-![]()
-![]()
 
 ### Technologies:
 ![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-821e3b?style=for-the-badge&logo=node.js&logoColor=white)
@@ -54,9 +52,10 @@
 ![Trello](https://custom-icon-badges.demolab.com/badge/-Trello-f984e5?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://custom-icon-badges.demolab.com/badge/-Jira-007ba7?style=for-the-badge&logo=Jira&logoColor=white)
 
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">
-      
+### 📚Currently Learning : 
+![Playwright Python](https://custom-icon-badges.demolab.com/badge/-Playwright-7ba05b?style=for-the-badge&logo=Playwright&logoColor=white)
+![Java Script](https://custom-icon-badges.demolab.com/badge/-JavaScript-800000?style=for-the-badge&logo=JavaScript&logoColor=white)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">     
 <details style="padding-bottom: 10px;">
   <summary> 
     <h2 style="font-size: 24px;">📎 GitHub Profile Stats:</h2> 
