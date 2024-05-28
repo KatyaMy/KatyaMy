@@ -1,7 +1,6 @@
 <div style="font-size: 30px; text-align: left;">
-    <p style="display: inline-block; vertical-align: middle; font-size: 30px;">🪆 About Me:</p> 
+    <p style="display: inline-block; vertical-align: middle; font-size: 30px;">💫 About Me:</p> 
 </div>
-
 
 <div align="left" style="margin-bottom: 20px;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmd2c29yN2F1a3p5N3dzZGY5cHFxYnhpc2xjY3o3ZWxsdno4aWtxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JsDtKXMBOAJt1mJYaF/giphy.gif" width="180" height="180" style="display:inline-block;vertical-align:middle;margin-right:20px;">&nbsp;
@@ -12,7 +11,6 @@
     <p style="font-size: 20px;">Passionate Automation QA from Virginia.</p>
     <p style="font-size: 20px;">🌱 "Learn always and everywhere." - Jean-Jacques Rousseau</p>
 </div>
-
 <div style="font-size: 20px; text-align: left;">
     <p style="display: inline-block; vertical-align: middle;">🌐 Socials: 
         <a href="https://web.telegram.org/kw/">
@@ -59,6 +57,8 @@
   <div style="font-size: 5px; text-align: left;"> <p>----- </p> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="50" height="50"/>&nbsp;
 </details>
+<hr style="margin-bottom: 20px;">
+      
 <details style="padding-bottom: 10px;">
   <summary> 
     <h2 style="font-size: 24px;">📎 GitHub Profile Stats:</h2> 
