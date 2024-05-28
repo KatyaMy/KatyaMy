@@ -6,7 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">
 </div>
 
-### :bookmark: Passionate Automation QA from Virginia.
+### :bookmark: Automation Testing Aficionado from Virginia
+### 🌱 Always learning, always growing.
 ### :black_nib: "Learn always and everywhere." - @Jean-Jacques Rousseau
 <h1></h1>
 <h1>🌐 Socials:  
