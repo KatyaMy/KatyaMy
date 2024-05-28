@@ -6,11 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF7A5&center=true&vCenter=true&random=false&width=438&height=52&lines=Hello%2C+I'm+Katya.+Welcome!" style="display:inline-block;vertical-align:middle;">
 </div>
 
-#### :bookmark: Automation Testing Aficionado from Virginia
-#### 🌱 Always learning, always growing.
-#### :black_nib: "Learn always and everywhere." - @Jean-Jacques Rousseau
-<h1></h1>
+#### 🌞 Always learning, always growing.  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZlMDdnbnA2eGUzb3c3NXM5eDl5MjE2NGd4bDJkaGtwaTZzcm94cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xDKZ3h77cwDAka4tTl/giphy.gif" width="50" height="50">&nbsp;
+#### :bookmark: Automation Testing Aficionado from Virginia 
 
+<h1></h1>
 ## 🌐 Socials:  
 <a href="https://web.telegram.org/kw/">
 <img src="https://img.shields.io/badge/Facebook-b72e33?logo=facebook&logoColor=white" alt="Telegram Badge" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
@@ -56,6 +55,7 @@
 ### 📚Currently Learning : 
 ![Playwright Python](https://custom-icon-badges.demolab.com/badge/-Playwright-7ba05b?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Java Script](https://custom-icon-badges.demolab.com/badge/-JavaScript-800000?style=for-the-badge&logo=JavaScript&logoColor=white)
+#### :black_nib: "Learn always and everywhere." - @Jean-Jacques Rousseau
 <img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">     
 <details style="padding-bottom: 10px;">
   <summary> 
@@ -70,4 +70,3 @@
  
  <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
 </div>
-
