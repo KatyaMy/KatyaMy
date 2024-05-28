@@ -1,4 +1,4 @@
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVnbjEzaW1tbjVyZmd0YjJ3amxncGM4dDV5ZGZib2JxdmEycGF3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7aCVzTmaVkDWpXYk/giphy.gif"  width="80" height="50">&nbsp; &#129670;About Me: 
+# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNuZWtvaTluYnI4b2JzYTd2bHB0Ym1zNmp1Mmc4a2tsazNwNHdscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I0ipgtViVaweZrKcOi/giphy.gif" width="60" height="60">&nbsp;About Me: 
 <div align="left" style="margin-bottom: 20px;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVob3B1MDZhdXR3N3kwMDhkdTB2Nmg4ZmJ6c3Yzcno2Y2JhN3JoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oCoDOqw7AfDFlFuCfq/giphy.gif" width="190" height="190" style="display:inline-block;vertical-align:middle;margin-right:20px;">&nbsp;
   
@@ -6,9 +6,9 @@
 </div>
 
 #### 🌞 Always learning, always growing.  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZlMDdnbnA2eGUzb3c3NXM5eDl5MjE2NGd4bDJkaGtwaTZzcm94cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xDKZ3h77cwDAka4tTl/giphy.gif" width="50" height="50">&nbsp;
-#### :bookmark: Automation Testing Aficionado from Virginia 
-
+#### &#129670; Automation Testing Aficionado from Virginia 
 <h1></h1>
+
 ## 🌐 Socials:  
 <a href="https://web.telegram.org/kw/">
 <img src="https://img.shields.io/badge/Facebook-b72e33?logo=facebook&logoColor=white" alt="Telegram Badge" style="display: inline-block; vertical-align: middle; margin-right: 20px;">
