@@ -72,7 +72,8 @@
 </details>
 <div align='left'>
   
- [![GitHub Streak](https://streak-stats.demolab.com?user=KatyaMy&theme=tokyonight-duo)](https://git.io/streak-stats)
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=KatyaMy)](https://git.io/streak-stats)
  
  <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
 </div>
