@@ -67,11 +67,11 @@
   <summary>
     <h2 style="font-size: 24px;">📎 GitHub Profile Stats:</h2>
   </summary>
-  <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaMy&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true" alt="KatyaMy's github stats" /></a>
-  <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=darcula&hide_border=true" /></a>
+  <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaMy&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="KatyaMy's github stats" /></a>
+  <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=chartreuse-dark&hide_border=true" /></a>
   <div align='left'>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=KatyaMy" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=KatyaMy&theme=chartreuse-dark" alt="GitHub Streak" />
     </a>
   </div>
 </details>
