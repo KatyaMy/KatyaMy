@@ -71,12 +71,9 @@
 <a href="https://github.com/KatyaMy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaMy&layout=compact&theme=darcula&hide_border=true" /></a>
 </details>
 <div align='left'>
-  
-
- 
+   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KatyaMy)](https://git.io/streak-stats)
 
 
- 
- <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
 </div>
