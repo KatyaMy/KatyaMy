@@ -64,6 +64,7 @@
 ![Codewars](https://www.codewars.com/users/KatyaMy/badges/small)
 
 #### :black_nib: "Learn always and everywhere." - @Jean-Jacques Rousseau
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">     
 <details>
   <summary>
