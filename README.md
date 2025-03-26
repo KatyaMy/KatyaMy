@@ -61,6 +61,8 @@
 ![Java Script](https://custom-icon-badges.demolab.com/badge/-JavaScript-800000?style=for-the-badge&logo=JavaScript&logoColor=white)
 <h1></h1>
 
+![Codewars](https://www.codewars.com/users/KatyaMy/badges/small)
+
 #### :black_nib: "Learn always and everywhere." - @Jean-Jacques Rousseau
 <img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">     
 <details>
@@ -75,7 +77,6 @@
     </a>
   </div>
 </details>
-
 
 <img src="https://komarev.com/ghpvc/?username=KatyaMy&style=flat-square&color=yellow" alt=""/>
 </div>
